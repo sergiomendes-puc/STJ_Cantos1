@@ -4,17 +4,21 @@
 [![N|Solid](https://stateresa.com.br/wp-content/themes/mantenedora/assets/img/logo-mantenedora-colorido.png)](https://stateresa.com.br/)
 
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
 
-## Features
+## 1 Hino dos Amigos de Jesus
+Olá Jesus, és meu amigo,
+Me queres muito e também te quero eu. 
+Sei que estarás sempre comigo, 
+sei que te levo aqui em meu coração.
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+> **Amigos Tu e eu, oh que felicidade,**   
+> **amigos para sempre, amigos de verdade.**  
+
+Olá Jesus, vais ajudar-me 
+quando te chamo correndo Tu virás. 
+Se eu cair vens levantar-me, 
+se eu estou contente Tu vens para brincar.
+
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
