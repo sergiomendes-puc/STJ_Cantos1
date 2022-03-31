@@ -89,7 +89,7 @@ Deu-se em comida e bebida pra nos salvar.
 **E quando amanhecer/ o dia eterno, a plena visão,**  
 **Ressurgiremos por crer/ nesta vida escondida no Pão. (bis)**  
   
-
+{:start="2"}
 2. Para lembrarmos a morte, a cruz do Senhor,/ nós repetimos, como Ele fez:
 gestos, palavras, até que volte outra vez.
   
