@@ -11,13 +11,20 @@ Me queres muito e também te quero eu.
 Sei que estarás sempre comigo, 
 sei que te levo aqui em meu coração.
 
-> **Amigos Tu e eu, oh que felicidade,**   
-> **amigos para sempre, amigos de verdade.**  
+###Amigos Tu e eu, oh que felicidade,   
+###amigos para sempre, amigos de verdade.  
 
 Olá Jesus, vais ajudar-me 
 quando te chamo correndo Tu virás. 
 Se eu cair vens levantar-me, 
 se eu estou contente Tu vens para brincar.
+
+
+
+
+
+
+
 
 
 Markdown is a lightweight markup language based on the formatting conventions
