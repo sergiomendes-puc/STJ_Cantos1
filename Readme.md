@@ -71,7 +71,7 @@ O Senhor está no céu, / o Senhor está no mar, / na extensão do infinito
 O Senhor está no céu, / o Senhor está no mar, / na extensão do infinito  
 /: Está no céu, está no mar, na extensão do infinito :/
 
-## Antes da morte 
+## 7 Antes da morte 
 1. Antes da morte e ressurreição de Jesus,/ Ele, na Ceia, quis Se entregar:
 Deu-se em comida e bebida pra nos salvar.
   
