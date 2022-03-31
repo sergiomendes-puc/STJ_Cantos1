@@ -17,8 +17,8 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
 
 <!-- !toc (minlevel=2 omit="Table of Contents") -->
 
-* [Hino dos Amigos de Jesus](#1 Hino dos Amigos de Jesus)
-* [Girassol](#2 Girassol)
+* [Hino dos Amigos de Jesus](#1-Hino-dos-Amigos-de-Jesus)
+* [Girassol](#2-Girassol)
 
 
 <!-- toc! -->
