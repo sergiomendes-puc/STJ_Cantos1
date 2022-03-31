@@ -1,7 +1,7 @@
 # CANTOS TERESIANOS
 ## _Companhia de Santa Teresa de Jesus_
 
-[![N|Solid](http://www.cstj.com.br/new/img/logo.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://stateresa.com.br/wp-content/themes/mantenedora/assets/img/logo-mantenedora-colorido.png)](https://stateresa.com.br/)
 
 
 - Type some Markdown on the left
