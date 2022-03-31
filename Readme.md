@@ -17,7 +17,7 @@
 - [1 Hino dos Amigos de Jesus](#1-hino-dos-amigos-de-jesus)
 - [2 Girassol](#2-girassol)
 - [3 Passarinhos](#3-passarinhos)
-- [4 Vem, vem, Espírito Santo](#4-vem--vem--esp-rito-santo)
+- [4 Vem, vem, Espírito Santo](#4-vem-vem--esp-rito-santo)
 - [5 Glória](#5-gl-ria)
 - [6 O Senhor é Rei](#6-o-senhor---rei)
 - [7 Antes da morte](#7-antes-da-morte)
