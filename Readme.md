@@ -5,28 +5,10 @@
 
 
 ## Sumário
-1. [1 Hino dos Amigos de Jesus](#1-Hino-dos-Amigos-de-Jesus)
-
-
-## Table of Contents
-
-<!--
-
-Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
-
-1. $ npm i -g markedpp
-2. $ markedpp --github -o README.md README.md
-
--->
-
-<!-- !toc (minlevel=2 omit="Table of Contents") -->
-
-* [Hino dos Amigos de Jesus](#1-Hino-dos-Amigos-de-Jesus)
-* [Girassol](#2-Girassol)
-
-
-<!-- toc! -->
-
+1. [Hino dos Amigos de Jesus](#1-Hino-dos-Amigos-de-Jesus)
+2. [Girassol](#2-Girassol)
+3. [Passarinhos](#3-Passarinhos)
+4. [Vem, vem, Espírito Santo](#4-Vem,-vem,-Espírito-Santo)
 
 
 
