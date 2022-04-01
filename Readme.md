@@ -103,7 +103,7 @@ no último dia vai ressurgir, viverá.
 5. Cristo está vivo, ressuscitou para nós!/ Esta verdade vai anunciar
 a toda terra, com alegria, a cantar.
 
-## 8 Não te perturbes (Taizé)
+## 8 Não te perturbes /(Taizé/)
 Não te perturbes / Nada te espante  
 Quem com Deus anda / Nada lhe falta  
 Não te perturbes / Nada te espante  
