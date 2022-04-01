@@ -14,7 +14,7 @@
 - [5 Glória](#5-glória)
 - [6 O Senhor é Rei](#6-o-senhor-é-rei)
 - [7 Antes da morte ](#7-antes-da-morte)
-- [8 Não te perturbes](#8-não-te-perturbes--Taizé-)
+- [8 Não te perturbes](#8-não-te-perturbes--Taizé--)
 <!-- TOC end -->
 
 ## 1 Hino dos Amigos de Jesus
