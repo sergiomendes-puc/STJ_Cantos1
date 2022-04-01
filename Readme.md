@@ -5,25 +5,7 @@
 ![Logo cstj](https://stateresa.com.br/wp-content/themes/mantenedora/assets/img/logo-mantenedora-colorido.png)
 
 
-## Sumário
-1. [Hino dos Amigos de Jesus](#1-Hino-dos-Amigos-de-Jesus)
-2. [Girassol](#2-Girassol)
-3. [Passarinhos](#3-Passarinhos)
-4. [Vem, vem, Espírito Santo](#4-Vem-vem-Espírito-Santo)
-5. [Glória](#5-Glória)
-6. [O Senhor é Rei](#6-O-Senhor---Rei)
-7. [Antes da morte](#7-Antes-da-morte)
-
-## Sumario 2
-[1 Hino dos Amigos de Jesus](#1-hino-dos-amigos-de-jesus)  
-[2 Girassol](#2-girassol)  
-[3 Passarinhos](#3-passarinhos)  
-[4 Vem, vem, Espírito Santo](#4-vem--vem--esp-rito-santo)  
-[5 Glória](#5-Gloria)  
-[6 O Senhor é Rei](#6-O-Senhor---Rei)  
-[7 Antes da morte](#7-antes-da-morte)  
-
-## Sumario 3
+## Sumario
 <!-- TOC start -->
 - [1 Hino dos Amigos de Jesus](#1-hino-dos-amigos-de-jesus)
 - [2 Girassol](#2-girassol)
@@ -119,5 +101,11 @@ no último dia vai ressurgir, viverá.
   
 5. Cristo está vivo, ressuscitou para nós!/ Esta verdade vai anunciar
 a toda terra, com alegria, a cantar.
+
+## 8 Não ter perturbes - Taizé
+Não te perturbes / Nada te espante  
+Quem com Deus anda / Nada lhe falta  
+Não te perturbes / Nada te espante  
+Basta Deus, só Deus
 
 
