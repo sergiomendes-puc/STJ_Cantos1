@@ -1,11 +1,6 @@
 # CANTOS TERESIANOS
 ## _Companhia de Santa Teresa de Jesus_
 
-var MarkdownIt = require("markdown-it");
-var md = new MarkdownIt();
-
-md.use(require("markdown-it-anchor").default); // Optional, but makes sense as you really want to link to something, see info about recommended plugins below
-md.use(require("markdown-it-table-of-contents"));
 
 ![Logo cstj](https://stateresa.com.br/wp-content/themes/mantenedora/assets/img/logo-mantenedora-colorido.png)
 
@@ -28,8 +23,6 @@ md.use(require("markdown-it-table-of-contents"));
 [6 O Senhor é Rei](#6-O-Senhor---Rei)  
 [7 Antes da morte](#7-antes-da-morte)  
 
-## Sumario 3
-[[toc]]
 
 
 ## 1 Hino dos Amigos de Jesus
